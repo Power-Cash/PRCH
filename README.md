@@ -14,7 +14,7 @@ What is Power Cash?
 
 WhitePaper
 ----------------
-- [PrCh.One/WhitePaper](https://PrCh.One/WhitePaper.pdf)
+- [PrCh.One/WhitePaper](https://prch.one/Witepaper%20v1.0.0.pdf)
 
 
 License
