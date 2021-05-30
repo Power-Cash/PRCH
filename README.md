@@ -9,7 +9,7 @@ Official WebSite
 
 What is Power Cash?
 ----------------
-<img src="" alt="Power Cash" >
+<img src="https://prch.one/img/core-img/Logo.png" alt="Power Cash" >
 
 
 WhitePaper
