@@ -9,7 +9,7 @@ Official WebSite
 
 What is Power Cash?
 ----------------
-<img src="https://prch.one/img/core-img/Logo.png" alt="Power Cash" >
+<img src="https://github.com/Power-Cash/PRCH/blob/main/TrustWallet/TA6JuPYq2bFCRdTGyQtdTa2Xj5B4NB7sm1/Logo.png" alt="Power Cash" >
 
 
 WhitePaper
